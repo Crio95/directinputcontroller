@@ -1,0 +1,1 @@
+This is a plugin that I am creating to allow me to control music at work using a direct input device.  The main reason for this is that it allows me to change songs while a vm is capturing my keyboard/mouse.
